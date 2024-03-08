@@ -19,4 +19,49 @@
         }
 
     }
+
+    public class Class2
+    {
+        class Food
+        {
+
+        }
+
+        class Vegetables : Food
+        {
+
+        }
+
+        class Potato : Vegetables
+        {
+
+        }
+
+        class Carrot : Vegetables
+        {
+
+        }
+        
+
+        class Fruits : Food
+        {
+
+        }
+
+        class Apple : Fruits
+        {
+
+        }
+
+        class Banana : Fruits
+        {
+
+        }
+
+        class Pear : Fruits
+        {
+
+        }
+    }
+
 }
